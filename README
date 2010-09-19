@@ -1,1 +1,4 @@
 ATND event reminder
+
+dependency
+python-twitter http://code.google.com/p/python-twitter/
